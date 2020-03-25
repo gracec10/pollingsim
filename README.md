@@ -1,5 +1,7 @@
 # pollingsim
-HW 3 for CPSC 310
+HW 3 for CPSC 310  
+Grace Cheung   
+gvc8  
 
 Tigger = 0, Pooh = 1
 
